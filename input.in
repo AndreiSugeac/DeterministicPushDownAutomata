@@ -1,0 +1,18 @@
+2
+1 2
+3
+a b c
+1
+1
+2
+8
+1 a $ A$ 1
+1 b $ B$ 1
+1 a A AA 1
+1 a B . 1
+1 b A . 1
+1 b B BB 1
+1 c A A 1
+1 c B B 1
+1 . $ $ 2
+abaacaaba.
